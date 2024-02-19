@@ -1,0 +1,84 @@
+body{
+    background-color: var(--bg, #211E1C);;
+}
+.navbar{
+    width: 100%;
+background-color:  #211E1C;
+
+}
+.react{
+    /* background-image: url(./img/Frame\ 166\ \(1\).png); */
+    width: 90%;
+    margin-right: 0px;
+}
+.col-5{
+    margin-top: 20px;
+    margin-left: 110px;
+background-color:  #211E1C;
+
+}.col-2{
+    margin-top: 20px;
+background-color:  #211E1C;
+
+}
+.img1{
+    margin-left: 130px;
+    width: 40px;
+height: 40px;
+margin-top: 25px;
+background-color:  #211E1C;
+}.img2{
+    margin-left: 60px;
+    width: 40px;
+height: 40px;
+margin-top: 25px;
+background-color:  #211E1C;
+}
+.col-6{
+    margin-top: 30px;
+}
+
+
+.quvun{
+    width: 140%;
+    height: 500px;
+    margin-top: 60px;
+    background-image: url(./img/slider.png);
+}
+.tarvuz{
+    /* text-align: center; */
+    color: white;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 130px;
+margin-left: 100px;
+}
+.qwer{
+    display: flex;
+    gap: 20px;
+    margin-right: 50xp;
+}
+.bilis{
+    background-image: url(./img/Rectangle\ 17.png) ;
+    margin-left: 20px;
+    
+}
+.bilis2{
+    gap: 90px;
+    color: white;
+}
+.bilis3{
+    gap: 10px;
+}
+.navbar-1{
+    width: 70%;
+}
+.url{
+ border: 0.1px solid #211E1C;
+ width: 100%;
+ height: 440px;
+ background-image: url(./img/footer\ \(3\).png);
+}
